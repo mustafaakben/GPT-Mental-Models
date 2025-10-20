@@ -1,0 +1,11 @@
+# Mental Model Theory Neural Network Framework Requirements
+
+# Deep Learning Framework
+torch>=2.0.0
+
+# Machine Learning and Data Processing
+scikit-learn>=1.3.0
+numpy>=1.24.0
+
+# Optional: For better performance and CUDA support
+# torch[cuda] # Uncomment if you want CUDA support
